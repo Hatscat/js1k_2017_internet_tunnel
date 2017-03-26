@@ -1,0 +1,12 @@
+#[My js1k 2017 entry: "Internet Tunnel"](http://js1k.com/2017-magic/demo/2875)
+
+Visually inspired by funny images you can see by searching ["internet tunnel"](https://www.google.fr/search?q=internet+tunnel&source=lnms&tbm=isch) on google images.
+
+* [Raymarched tunnel on Mini Shadertoy](http://js1k.com/2017-magic/demo/2645#dmVjMiBmIChmbG9hdCBuKQp7CglyZXR1cm4gdmVjMihzaW4obiouNSkqNy4sIHNpbihuKi4yKSozMy4pOwp9Cgp2b2lkIG1haW5JbWFnZSAob3V0IHZlYzQgZ2xGcmFnQ29sb3IsIHZlYzIgZ2xGcmFnQ29vcmQpCnsKCWZsb2F0IFogPSBpR2xvYmFsVGltZSoyLiwgdCA9IDAuLCBjLCBsOwogICAgCgl2ZWMyIHUgPSBnbEZyYWdDb29yZC54eS9pUmVzb2x1dGlvbi54eSoyLi0xLiwgdiwgdywgcTsKCXUueCAqPSBpUmVzb2x1dGlvbi54L2lSZXNvbHV0aW9uLnk7CiAgICAKCXZlYzMgbyA9IHZlYzMoZihaKSwgWiksCiAgICAgICAgciA9IG5vcm1hbGl6ZSh2ZWMzKGYoWi0uNDQpK3UsIFotLjQpIC0gbyksCiAgICAgICAgcDsKCglmb3IgKGludCBpPTA7IGk8NjQ7ICsraSkgewoJCXAgPSBvICsgdCpyOwoJCXYgPSBmKHAueik7CgkJdCArPSAobGVuZ3RoKHAueHkgLSB2KSAtIDIuKSAqIC41OwoJfQoKCXcgPSBmbG9vcihtb2QocSA9IHZlYzIoYXRhbihwLnktdi55LCBwLngtdi54KSwgcC56KSAqIDI3LiAsNS4pICogMi4pOwoJYyA9IHcueCA8IDQuID8gZmxvb3IobW9kKCAobGVuZ3RoKGZsb29yKG1vZChxLzUuLDIuKSkpPT0xLiA/IDEyNzE4MjIyLiA6IDY1OTU4NzguKSAvIGV4cDIody54ICsgNS4gKiB3LnkpLCAyLiApKSA6IDAuOwoKCWwgPSBtYXgoYyp0KnQsdCp0Ki43KS83OC47CglnbEZyYWdDb2xvciA9IHZlYzQobCouNSxtYXgoYy8odCp0KSxsKi41KSxsLDEuKTsKfQ==)
+
+* [Music on HTML5 Bytebeat](http://greggman.com/downloads/examples/html5bytebeat/html5bytebeat.html#t=1&e=0&s=44100&bb=5d000001006b0000000000000000141d01e2713e03aaa6b657ff4eca453f412a4584f7aafe5d0b882f4825407313e6c5d237061185ddf03fbc33dc736715608220095f2f7e459b8346ca03c5f8447d3124aafe24181c5cc44727487cca987dffff25c20000)
+
+And I use the smart tricks from the [webgl boilerplate made by The Codegolf team](http://xem.github.io/articles/#webgl_quest_2017).
+
+----
+Compression: [Minified](https://jscompress.com/) then [RegPacked](http://siorki.github.io/regPack.html) with score 1/0/0.
